@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # T3NNO-CTF
 # CTF Tool v0.1
 
