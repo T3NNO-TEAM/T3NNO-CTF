@@ -1,0 +1,5 @@
+colorama
+rich
+scapy
+requests
+beautifulsoup4
