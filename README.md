@@ -29,31 +29,31 @@ Thanks to @smkh4x
 Thanks to @ouss112
 Thanks to @mohammed0102simo
 =======
-# 🚀 T3NNO-CTF
-### 🛠️ CTF Tool v0.1
+#  T3NNO-CTF
+### CTF Tool v0.1
 
 Console-based toolkit for CTF players and beginners in cybersecurity.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔓 Brute Force Hash
-- 📦 Brute Force ZIP
-- 🌐 Port Scanner
-- 🕸️ Web Scanner
-- 📁 File Hash Scanner (Get Files HASH)
+-  Brute Force Hash
+-  Brute Force ZIP
+-  Port Scanner
+-  Web Scanner
+-  File Hash Scanner (Get Files HASH)
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python 3.9+
 - pip
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
@@ -73,7 +73,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-## ▶️ Usage
+##  Usage
 
 Run the console app:
 
@@ -94,22 +94,17 @@ Enter the number of the option and follow the prompts for each module.
 
 Tip: Press Ctrl + C to exit gracefully.
 
-🧩 Modules
+ Modules
 brute_force_hash → Brute Force Hash
 brute_force_zip → Brute Force ZIP
 port_scaner → Port Scanner
 web_scaner → Web Scanner
 file_scanner → Get Files HASH
-⚠️ Disclaimer
+ Disclaimer
 
 This tool is for educational purposes and CTF challenges only.
 Do NOT use it on systems you don’t have permission to test.
 
-👨‍💻 Authors
-@smkh4x
-@ouss112
-@mohammed0102simo
-⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
 
@@ -122,9 +117,8 @@ You can add screenshots/examples to make it easier for users.
 
 ---
 
-✅ This version is **fully in English**, structured for GitHub, and ready for users to follow step by step.  
+ This version is **fully in English**, structured for GitHub, and ready for users to follow step by step.  
 
 If you want, I can also prepare a **ready-to-push GitHub repo structure** with `main.py`, `requirements.txt`, modules folders, and this README already included.  
 
-Do you want me to do that?
->>>>>>> 433ee11 (Initial commit with main.py, modules, README and requirements)
+
